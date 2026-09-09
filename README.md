@@ -17,7 +17,6 @@ A Discord bot for checking and managing Fortnite accounts — locker, item shop,
 - **Locker** — view your owned cosmetics
 - **Equip** — equip a specific item
 - **Item Shop** — see today's featured shop
-- **Random** — equip a random outfit
 
 ### Save the World
 - **STW Inventory** — llamas, resources, schematics
