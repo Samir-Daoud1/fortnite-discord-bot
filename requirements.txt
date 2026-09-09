@@ -1,0 +1,8 @@
+discord.py
+python-dotenv
+requests
+cryptography
+coloredlogs
+pyperclip 
+InquirerPy
+Flask
