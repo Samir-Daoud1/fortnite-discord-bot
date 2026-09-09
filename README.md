@@ -1,4 +1,4 @@
-# LarsBotMain
+# Lars Bot
 
 A Discord bot for checking and managing Fortnite accounts — locker, item shop, STW inventory, friend management, and more.
 
